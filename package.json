@@ -1,0 +1,24 @@
+{
+  "name": "random-str-code",
+  "version": "1.0.0",
+  "description": "random-string-code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/fran2014/random-str-code"
+  },
+  "keywords": [],
+  "author": "Francisco Teran <franciscoteran.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fran2014/random-str-code/issues"
+  },
+  "homepage": "https://github.com/fran2014/random-str-code#readme",
+  "bin": {
+    "random-str-code": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
