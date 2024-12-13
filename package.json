@@ -1,12 +1,12 @@
 {
   "name": "random-str-code",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "random-string-code",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/fran2014/random-str-code"
   },
